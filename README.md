@@ -1,3 +1,8 @@
+This was a team project, not solo work. I have removed commits and names for privacy reasons.
+
+The below readme was not written by me. 
+---
+
 # 2021Spring_Team3_Repository-
 
 Food ordering app
